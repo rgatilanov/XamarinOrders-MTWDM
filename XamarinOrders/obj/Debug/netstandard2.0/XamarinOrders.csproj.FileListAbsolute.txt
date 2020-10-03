@@ -1,0 +1,14 @@
+G:\EjerciciosMTWDM2020\XamarinOrders\XamarinOrders\bin\Debug\netstandard2.0\XamarinOrders.deps.json
+G:\EjerciciosMTWDM2020\XamarinOrders\XamarinOrders\bin\Debug\netstandard2.0\XamarinOrders.dll
+G:\EjerciciosMTWDM2020\XamarinOrders\XamarinOrders\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\EjerciciosMTWDM2020\XamarinOrders\XamarinOrders\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\EjerciciosMTWDM2020\XamarinOrders\XamarinOrders\obj\Debug\netstandard2.0\XamarinOrders.AssemblyInfoInputs.cache
+G:\EjerciciosMTWDM2020\XamarinOrders\XamarinOrders\obj\Debug\netstandard2.0\XamarinOrders.AssemblyInfo.cs
+G:\EjerciciosMTWDM2020\XamarinOrders\XamarinOrders\bin\Debug\netstandard2.0\ref\XamarinOrders.dll
+G:\EjerciciosMTWDM2020\XamarinOrders\XamarinOrders\bin\Debug\netstandard2.0\XamarinOrders.pdb
+G:\EjerciciosMTWDM2020\XamarinOrders\XamarinOrders\obj\Debug\netstandard2.0\XamarinOrders.csproj.CoreCompileInputs.cache
+G:\EjerciciosMTWDM2020\XamarinOrders\XamarinOrders\obj\Debug\netstandard2.0\XamlC.stamp
+G:\EjerciciosMTWDM2020\XamarinOrders\XamarinOrders\obj\Debug\netstandard2.0\XamarinOrders.dll
+G:\EjerciciosMTWDM2020\XamarinOrders\XamarinOrders\obj\Debug\netstandard2.0\ref\XamarinOrders.dll
+G:\EjerciciosMTWDM2020\XamarinOrders\XamarinOrders\obj\Debug\netstandard2.0\XamarinOrders.pdb
+G:\EjerciciosMTWDM2020\XamarinOrders\XamarinOrders\obj\Debug\netstandard2.0\XamarinOrders.csprojAssemblyReference.cache
