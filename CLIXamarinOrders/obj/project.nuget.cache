@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "PEyULPj+ODbzOXBpz7EGmmGxPnGwwpdtOY68utlAEeDLR6aaIMUOkblHZBVKGdN4M4J47Q/h+oMNEIlEW7pCTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders\\CLIXamarinOrders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\syncfusion.licensing\\18.3.0.35\\syncfusion.licensing.18.3.0.35.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\syncfusion.xamarin.core\\18.3.0.35\\syncfusion.xamarin.core.18.3.0.35.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\syncfusion.xamarin.datasource\\18.3.0.35\\syncfusion.xamarin.datasource.18.3.0.35.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\syncfusion.xamarin.gridcommon\\18.3.0.35\\syncfusion.xamarin.gridcommon.18.3.0.35.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\syncfusion.xamarin.sflistview\\18.3.0.35\\syncfusion.xamarin.sflistview.18.3.0.35.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\xamarin.essentials\\1.6.0-pre2\\xamarin.essentials.1.6.0-pre2.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\xamarin.forms\\5.0.0.1487-pre1\\xamarin.forms.5.0.0.1487-pre1.nupkg.sha512"
+  ],
+  "logs": []
+}

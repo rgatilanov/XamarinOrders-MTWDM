@@ -1,0 +1,14 @@
+C:\Users\ProBook 450 HP\source\repos\CLIXamarinOrders\CLIXamarinOrders\bin\Debug\netstandard2.0\CLIXamarinOrders.deps.json
+C:\Users\ProBook 450 HP\source\repos\CLIXamarinOrders\CLIXamarinOrders\bin\Debug\netstandard2.0\CLIXamarinOrders.dll
+C:\Users\ProBook 450 HP\source\repos\CLIXamarinOrders\CLIXamarinOrders\obj\Debug\netstandard2.0\CLIXamarinOrders.csprojAssemblyReference.cache
+C:\Users\ProBook 450 HP\source\repos\CLIXamarinOrders\CLIXamarinOrders\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ProBook 450 HP\source\repos\CLIXamarinOrders\CLIXamarinOrders\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ProBook 450 HP\source\repos\CLIXamarinOrders\CLIXamarinOrders\obj\Debug\netstandard2.0\CLIXamarinOrders.AssemblyInfoInputs.cache
+C:\Users\ProBook 450 HP\source\repos\CLIXamarinOrders\CLIXamarinOrders\obj\Debug\netstandard2.0\CLIXamarinOrders.AssemblyInfo.cs
+C:\Users\ProBook 450 HP\source\repos\CLIXamarinOrders\CLIXamarinOrders\bin\Debug\netstandard2.0\ref\CLIXamarinOrders.dll
+C:\Users\ProBook 450 HP\source\repos\CLIXamarinOrders\CLIXamarinOrders\bin\Debug\netstandard2.0\CLIXamarinOrders.pdb
+C:\Users\ProBook 450 HP\source\repos\CLIXamarinOrders\CLIXamarinOrders\obj\Debug\netstandard2.0\CLIXamarinOrders.dll
+C:\Users\ProBook 450 HP\source\repos\CLIXamarinOrders\CLIXamarinOrders\obj\Debug\netstandard2.0\ref\CLIXamarinOrders.dll
+C:\Users\ProBook 450 HP\source\repos\CLIXamarinOrders\CLIXamarinOrders\obj\Debug\netstandard2.0\CLIXamarinOrders.pdb
+C:\Users\ProBook 450 HP\source\repos\CLIXamarinOrders\CLIXamarinOrders\obj\Debug\netstandard2.0\CLIXamarinOrders.csproj.CoreCompileInputs.cache
+C:\Users\ProBook 450 HP\source\repos\CLIXamarinOrders\CLIXamarinOrders\obj\Debug\netstandard2.0\XamlC.stamp
