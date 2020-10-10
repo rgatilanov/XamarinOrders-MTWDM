@@ -1,10 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Threading.Tasks;
+using ApiCoreOrders.Helpers.Datos;
+using ApiCoreOrders.Interfaces;
 using ApiCoreOrders.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 
 namespace ApiCoreOrders.Controllers
 {
@@ -12,6 +16,7 @@ namespace ApiCoreOrders.Controllers
     [ApiController]
     public class OrderController : ControllerBase
     {
+#if false
         [HttpGet]
         public ActionResult<List<Order>> GetOrders()
         {
@@ -46,6 +51,62 @@ namespace ApiCoreOrders.Controllers
             });
 
             return orders;
+        }
+#endif
+        readonly IConfiguration _configuration;
+        string ConnectionStringAzure;
+        string ConnectionStringLocal;
+        public OrderController(IConfiguration configuration)
+        {
+            _configuration = configuration;
+            if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") == "Production")
+            {
+                ConnectionStringAzure = _configuration.GetConnectionString("ConnectionStringAzure");
+                //ConnectionStringAzure = _configuration.GetValue<string>("ConnectionStringAzure");
+            }
+            else
+                ConnectionStringLocal = _configuration.GetValue<string>("ConnectionStringLocal");
+        }
+
+        public ActionResult<List<Order>> GetOrders()
+        {
+#if true
+            using (IOrder Login = Factorizador.CrearConexionServicio(ConnectionType.MSSQL, ConnectionStringAzure))
+            {
+                List<Order> objords = Login.GetOrders();
+                return objords;
+            }
+#endif
+            #region Este código es para sacar la ip del cliente que intenta conectarse a sql server en azure
+#if false
+            List<Order> orders = new List<Order>();
+            SqlConexion sql = new SqlConexion()
+            {
+                _conn = new SqlConnection(ConnectionStringAzure)
+            };
+
+            try
+            {
+                sql._conn.Open();
+            }
+            catch (SqlException sqlEx)
+            {
+                orders.Add(new Order()
+                {
+                    ShipAddress = sqlEx.Message,
+                });
+            }
+            catch (Exception ex)
+            {
+                orders.Add(new Order()
+                {
+                    ShipAddress = ex.Message,
+                });
+            }
+
+            return orders;
+#endif
+            #endregion
         }
     }
 }
