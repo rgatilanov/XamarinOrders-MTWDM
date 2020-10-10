@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PEyULPj+ODbzOXBpz7EGmmGxPnGwwpdtOY68utlAEeDLR6aaIMUOkblHZBVKGdN4M4J47Q/h+oMNEIlEW7pCTw==",
+  "dgSpecHash": "d4RPNUS4tOqRc9pU4tUc7L1QZUUiFV3RBUMYKBEif9nqtDVQWDBbOBuKcBXrUG3E4k8O6QLVxi7qh192n1ImJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders\\CLIXamarinOrders.csproj",
+  "projectFilePath": "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders\\CLIXamarinOrders.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

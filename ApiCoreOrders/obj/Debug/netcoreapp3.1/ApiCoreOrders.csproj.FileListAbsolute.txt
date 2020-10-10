@@ -1,18 +1,27 @@
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\coreapiordersmtwdm2020 - Web Deploy\profile.arm.json
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\ApiCoreOrders.exe
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\ApiCoreOrders.deps.json
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\ApiCoreOrders.runtimeconfig.json
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\ApiCoreOrders.runtimeconfig.dev.json
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\ApiCoreOrders.dll
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\ApiCoreOrders.pdb
+C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\obj\Debug\netcoreapp3.1\ApiCoreOrders.csprojAssemblyReference.cache
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\obj\Debug\netcoreapp3.1\ApiCoreOrders.AssemblyInfoInputs.cache
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\obj\Debug\netcoreapp3.1\ApiCoreOrders.AssemblyInfo.cs
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\obj\Debug\netcoreapp3.1\ApiCoreOrders.csproj.CoreCompileInputs.cache
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\obj\Debug\netcoreapp3.1\ApiCoreOrders.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\obj\Debug\netcoreapp3.1\ApiCoreOrders.RazorTargetAssemblyInfo.cache
+C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\obj\Debug\netcoreapp3.1\ApiCoreOrders.csproj.CopyComplete
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\obj\Debug\netcoreapp3.1\staticwebassets\ApiCoreOrders.StaticWebAssets.Manifest.cache
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\obj\Debug\netcoreapp3.1\staticwebassets\ApiCoreOrders.StaticWebAssets.xml
 C:\Users\ProBook 450 HP\source\repos\ApiCoreOrders\obj\Debug\netcoreapp3.1\ApiCoreOrders.dll

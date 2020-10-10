@@ -780,11 +780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders\\CLIXamarinOrders.csproj",
+      "projectUniqueName": "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders\\CLIXamarinOrders.csproj",
       "projectName": "CLIXamarinOrders",
-      "projectPath": "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders\\CLIXamarinOrders.csproj",
+      "projectPath": "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders\\CLIXamarinOrders.csproj",
       "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders\\obj\\",
+      "outputPath": "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

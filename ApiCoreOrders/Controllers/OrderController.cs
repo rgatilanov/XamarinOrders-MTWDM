@@ -71,7 +71,7 @@ namespace ApiCoreOrders.Controllers
         public ActionResult<List<Order>> GetOrders()
         {
 #if true
-            using (IOrder Login = Factorizador.CrearConexionServicio(ConnectionType.MSSQL, ConnectionStringAzure))
+            using (IOrder Login = Factorizador.CrearConexionServicio(ConnectionType.MSSQL, ConnectionStringLocal))
             {
                 List<Order> objords = Login.GetOrders();
                 return objords;

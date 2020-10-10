@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders.iOS\\CLIXamarinOrders.iOS.csproj": {}
+    "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders.iOS\\CLIXamarinOrders.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders.iOS\\CLIXamarinOrders.iOS.csproj": {
+    "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders.iOS\\CLIXamarinOrders.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders.iOS\\CLIXamarinOrders.iOS.csproj",
+        "projectUniqueName": "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders.iOS\\CLIXamarinOrders.iOS.csproj",
         "projectName": "CLIXamarinOrders.iOS",
-        "projectPath": "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders.iOS\\CLIXamarinOrders.iOS.csproj",
+        "projectPath": "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders.iOS\\CLIXamarinOrders.iOS.csproj",
         "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders.iOS\\obj\\",
+        "outputPath": "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -33,8 +33,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders\\CLIXamarinOrders.csproj": {
-                "projectPath": "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders\\CLIXamarinOrders.csproj"
+              "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders\\CLIXamarinOrders.csproj": {
+                "projectPath": "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders\\CLIXamarinOrders.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders\\CLIXamarinOrders.csproj": {
+    "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders\\CLIXamarinOrders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders\\CLIXamarinOrders.csproj",
+        "projectUniqueName": "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders\\CLIXamarinOrders.csproj",
         "projectName": "CLIXamarinOrders",
-        "projectPath": "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders\\CLIXamarinOrders.csproj",
+        "projectPath": "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders\\CLIXamarinOrders.csproj",
         "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders\\obj\\",
+        "outputPath": "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pKUOUPNs8Hj07i+vI3LVhcjRwwJoudxEWA/OKe9aPrbtozpsfosg69VviYkWn9/9a3dR4UGQpd1KI+6FEUM1Vg==",
+  "dgSpecHash": "FJRxNnjxXUsZskwkdY7qv61DFH77RWGYYsENltm62WpF4u7h/aw5MnxHapS767woe/ucfguSH8wW3Y2W6imYUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ProBook 450 HP\\source\\repos\\CLIXamarinOrders\\CLIXamarinOrders.Android\\CLIXamarinOrders.Android.csproj",
+  "projectFilePath": "G:\\EjerciciosMTWDM2020\\XamarinOrders-MTWDM\\CLIXamarinOrders.Android\\CLIXamarinOrders.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\syncfusion.licensing\\18.3.0.35\\syncfusion.licensing.18.3.0.35.nupkg.sha512",
